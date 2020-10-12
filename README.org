@@ -1,0 +1,7 @@
+#+TITLE: LLVM IR Generator
+
+A [[https://racket-lang.org][Racket]] library to help generate LLVM IR code.
+
+* Author
+
+Ashton Wiersdorf [[https://matrix.to/#/@ashton314:matrix.org][@ashton314:matrix.org]]
